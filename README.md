@@ -1,10 +1,10 @@
 # Augmented-Reality
-OOP in Spark AR by Facebook/Instagram
+3D Modeling in Blender and Spark AR Studio
 
 
 - In this repo thread you will find the Augmented Reality "world object" I designed for reference in the file titled "lab portal complete.arproj" 
 
-- To run this filter or AR, you will have to either have Spark AR installed on your phone to PREVIEW, or the entire Spark AR Studio package on your pc to EDIT. Spark is FREE :)
+- To see this 3D object or engage with it, you will need to have Spark AR Player installed on your phone to PREVIEW, or either Blender 3D or Spark AR Studio package on your pc to EDIT. Spark is free
 
 - the accompanying files for the "lab portal" AR are in the repo probably as a .gltf file, I believe you have to download them too in order to EDIT my file. 
 
