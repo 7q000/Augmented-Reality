@@ -4,7 +4,9 @@
 
 - In this repo thread you will find the Augmented Reality "world object" I designed for reference in the file titled "lab portal complete.arproj" 
 
-- To see this 3D object or engage with it, you will need to have Spark AR Player installed on your phone to PREVIEW, or either Blender 3D or Spark AR Studio package on your pc to EDIT. Spark is free
+- There is a video + images of the object included in the repo as well
+
+- Otherwise, to see this 3D object and engage with it, you will need to have Spark AR Player installed on your phone to PREVIEW, or either Blender 3D or Spark AR Studio package on your pc to EDIT. Spark is free
 
 - the accompanying files for the "lab portal" AR are in the repo probably as a .gltf file, I believe you have to download them too in order to EDIT my file. 
 
